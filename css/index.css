@@ -162,7 +162,7 @@ body {
 
 .hua2 {
   position: absolute;
-  top: -30%;
+  top: -40%;
   width: 8rem;
   height: 6.93333rem;
   left: 3%;
@@ -332,17 +332,17 @@ body {
 
 #four .content p {
   font-size: 0.32rem;
-  margin-bottom: 0.26667rem;
+  margin-bottom: 0.13333rem;
 }
 
 #four .content p:nth-of-type(1) {
   font-size: 0.64rem;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.13333rem;
 }
 
 #four .content p:nth-of-type(2) {
   font-size: 0.53333rem;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.13333rem;
 }
 
 #four .content .imgs {
@@ -370,7 +370,7 @@ body {
 }
 
 #five .content p {
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.13333rem;
 }
 
 #five .content p:nth-of-type(1) {

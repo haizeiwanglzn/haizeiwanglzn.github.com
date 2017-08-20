@@ -167,7 +167,7 @@ body {
 }
 .hua2 {
     position: absolute;
-    top: -30%;
+    top: -40%;
     width: p2r(300);
     height: p2r(260);
     left: 3%;
@@ -326,15 +326,15 @@ body {
         }
         p {
             font-size: p2r(12);
-            margin-bottom: p2r(10);
+            margin-bottom: p2r(5);
         }
         p:nth-of-type(1) {
             font-size: p2r(24);
-            margin-bottom: p2r(15);
+            margin-bottom: p2r(5);
         }
         p:nth-of-type(2) {
             font-size: p2r(20);
-            margin-bottom: p2r(15);
+            margin-bottom: p2r(5);
         }
         .imgs {
             height: 30%;
@@ -360,7 +360,7 @@ body {
         color: rgb(169, 129, 72);
         font-size: p2r(12);
         p {
-            margin-bottom: p2r(15);
+            margin-bottom: p2r(5);
         }
         p:nth-of-type(1) {
             font-size: p2r(24)
