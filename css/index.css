@@ -162,7 +162,7 @@ body {
 
 .hua2 {
   position: absolute;
-  top: -40%;
+  top: -35%;
   width: 8rem;
   height: 6.93333rem;
   left: 3%;
@@ -210,7 +210,7 @@ body {
 
 #two .content {
   position: absolute;
-  top: 9%;
+  top: 5%;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -240,7 +240,7 @@ body {
 
 #three .content {
   position: absolute;
-  top: 9%;
+  top: 5%;
   width: 100%;
   color: #a98148;
   font-size: 0.32rem;
@@ -318,7 +318,7 @@ body {
 
 #four .content {
   position: absolute;
-  top: 9%;
+  top: 5%;
   width: 100%;
   color: #a98148;
   font-size: 0.32rem;
@@ -363,7 +363,7 @@ body {
 
 #five .content {
   position: absolute;
-  top: 9%;
+  top: 5%;
   width: 100%;
   color: #a98148;
   font-size: 0.32rem;
@@ -427,7 +427,7 @@ body {
 
 #six .content {
   position: absolute;
-  top: 9%;
+  top: 5%;
   width: 100%;
   color: #a98148;
   font-size: 0.37333rem;
