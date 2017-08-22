@@ -3198,13 +3198,12 @@ Copyright (c) 2015 Daniel Eden
 }
 @keyframes kaitou{
   70%{
-    z-index: 40;
+      z-index: 40;
      -webkit-transform: translate3d(0, 0, 0);
-      transform: translateY(10%);
+     top:0;
   }
  
   100%{
-    
     top: 0;
     left: 0;
     width: 100%;
