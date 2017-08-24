@@ -169,10 +169,10 @@
 
     });
     $(function () {
-        $("body").on("click",function(){
-             var audioDom = $("audio")[0];
-             audioDom.play();
-        })
+        document.addEventListener("WeixinJSBridgeReady", function () {
+        var audioDom = $("audio").get(0);
+        audioDom.play();
+}, false);
         $(".xiaoyinfu").on("click", function () {
             var audioDom = $("audio")[0];
 
