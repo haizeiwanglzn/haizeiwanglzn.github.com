@@ -169,6 +169,10 @@
 
     });
     $(function () {
+        $("body").on("click",function(){
+             var audioDom = $("audio")[0];
+             audioDom.play();
+        })
         $(".xiaoyinfu").on("click", function () {
             var audioDom = $("audio")[0];
 
