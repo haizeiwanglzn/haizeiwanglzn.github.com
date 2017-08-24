@@ -9,6 +9,7 @@
     <link rel="stylesheet" type="text/css" href="js/swiper-3.4.2.min.css">
     <link rel="stylesheet" type="text/css" href="js/animate.css">
     <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="prefetch" href="./audio/123123.mp3" />
     <script>
         document.querySelector('html').style.fontSize = window.screen.width / 10 + 'px';
     </script>
@@ -151,7 +152,7 @@
     </div>
     </div>
 </body>
-<script type="text/javascript" src="js/jquery-2.1.4.js"></script>
+<script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
 <script type="text/javascript" src="js/swiper-3.4.2.jquery.min.js"></script>
 <script type="text/javascript" src="js/swiper.animate1.0.2.min.js"></script>
 <script type="text/javascript">
@@ -173,6 +174,10 @@
         var audioDom = $("audio").get(0);
         audioDom.play();
 }, false);
+        $("body").on("click",function(){
+        var audioDom = $("audio").get(0);
+        audioDom.play();
+        })
         $(".xiaoyinfu").on("click", function () {
             var audioDom = $("audio")[0];
 
